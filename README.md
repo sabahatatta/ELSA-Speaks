@@ -128,6 +128,8 @@ The solution is built around a persistent session manager that continuously capt
     { "step": "vocabulary_exercise", "input": "I love data science", "feedback": "Improve sentence structure" }
   ]
 }
+```
+
 ### 2.3 Key Components
 
 #### A. Data Collection
